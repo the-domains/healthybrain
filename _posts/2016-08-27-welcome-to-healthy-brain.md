@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to Healthy Brain
-datePublished: '2016-08-27T18:38:27.625Z'
-dateModified: '2016-08-27T18:37:53.399Z'
+datePublished: '2016-08-27T18:39:18.723Z'
+dateModified: '2016-08-27T18:39:00.239Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-27-welcome-to-healthy-brain.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-27-welcome-to-healthy-brain.md
 url: welcome-to-healthy-brain/index.html
 _type: Article
 
