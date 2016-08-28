@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Neurofeedback You Can Trust]]></title>
+        <description><![CDATA[Neurofeedback You Can Trust]]></description>
+        <link>https://thegrid.ai/healthybrain/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Aug 2016 18:39:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/healthybrain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Healthy Brain</p>]]></description>
+            <link>https://thegrid.ai/healthybrain/welcome-to-healthy-brain/index.html</link>
+            <guid isPermaLink="false">465cb528-10da-4335-8d84-752beb0c88ec</guid>
+            <pubDate>Sat, 27 Aug 2016 18:39:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
